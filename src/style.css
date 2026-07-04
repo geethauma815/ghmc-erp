@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Traditional Government green note sheets */
+.green-note-sheet {
+  background-color: #f1f7ec;
+  border: 1px solid #d6ebd0;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.03);
+  position: relative;
+  font-family: 'Courier New', Courier, monospace;
+}
+.green-note-sheet::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 40px; bottom: 0;
+  width: 1px;
+  background-color: #fecdd3; /* Red margin line */
+}
+
+/* Steps Connector Line */
+.steps-connector-horizontal {
+  position: relative;
+}
+.steps-connector-horizontal::after {
+  content: '';
+  position: absolute;
+  top: 14px;
+  left: 50%;
+  width: 100%;
+  height: 2px;
+  background-color: #e2e8f0;
+  z-index: 1;
+}
+
+.steps-connector-horizontal.completed::after {
+  background-color: #10b981;
+}
+
+.steps-connector-horizontal.active::after {
+  background: linear-gradient(90deg, #10b981, #e2e8f0);
+}
+
+/* Pulse animation for active workflow items */
+@keyframes activePulse {
+  0% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.4); }
+  70% { box-shadow: 0 0 0 8px rgba(79, 70, 229, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0); }
+}
+.animate-active-pulse {
+  animation: activePulse 2s infinite;
+}
+
+/* Toast animations */
+@keyframes toastSlideIn {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.animate-toast-slide-in {
+  animation: toastSlideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

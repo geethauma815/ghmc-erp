@@ -1,0 +1,987 @@
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO
+Greater Hyderabad Municipal Corporation (GHMC)
+GHMC
+O/o SENIOR ASSISTANT-1 INFORMATION TECHNOLOGY, HEAD OFFICE
+SUBJECT
+Main 
+Category
+:
+IT
+Sub 
+Category
+:
+Description
+:
+Providing of IVR Outbound Call Campaign – Early Bird Property Tax Scheme
+2026-27 of GHMC – According administrative Sanction and Agency approval –
+Request – Reg.
+OTHER DETAILS
+Language
+:
+English
+Remarks
+:
+Previous 
+References
+:
+Later 
+References
+:
+1
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Note # 1  
+ 
+ 
+Note submitted the AC(IT), GHMC:
+Sub:    
+GHMC - Information Technology – Providing of
+IVR Outbound Call Campaign – Early Bird Property Tax
+Scheme 2026-27 of GHMC – According administrative
+Sanction and Agency approval – Request – Reg.
+ 
+Ref:     
+1. Instruction of the Commissioner, GHMC.
+2. Email Communication with GHMC and EMRI Green
+Health Services.
+3.
+ Proposal No.EMRI GHS/GHMC-IVR Outbound Call
+Campaign - Early Bird Property Tax Scheme 2026-27.
+ 
+<<<<>>>> 
+ 
+1.     
+It is submitted that the Commissioner, GHMC has instructed
+the IT Section to give wide publicity for the Early Bird Property
+Tax Scheme (5% rebate) by adopting various modes such as
+SMS, call campaigns, etc., to ensure maximum outreach before
+30th April 2026
+.
+ 
+2 .    
+In this regard, the IT Section is already sending SMS on a
+daily basis and further proposes to undertake an 
+IVR Outbound
+Call Campaign
+ to create awareness among citizens who have
+not yet paid their Property Tax for the ﬁnancial year 2026-27 and
+to encourage them to avail the Early Bird Scheme within the
+stipulated time.
+ 
+3 .     
+Accordingly, this oﬃce has approached 
+M/s. EMRI Green
+Health Services
+ to provide services for conducting the IVR
+Outbound Call Campaign.
+ 
+4.     Further, it is to submit that, M/s. EMRI Green Health
+Services is an 
+existing agency presently maintaining the
+GHMC Call Center (040-21111111)
+ and 
+possesses the
+necessary infrastructure, technical expertise, and experience in
+handling large-scale citizen outreach programs and call center
+operations.
+ 
+5.     In response, 
+the agency has submitted a proposal to cover
+approximately 
+6.5 lakh mobile numbers (with two attempts)
+within a short time frame. As per the proposal, the scope
+includes system setup, SIP lines, required software, and
+execution of the IVR campaign. The cost details are as follows:
+  
+2
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Sl.
+No
+Description of Work
+Qty
+(No)
+Unit
+Price in
+Rs.
+Amount
+in Rs.
+1
+Providing of IVR campaign including
+system setup, SIP lines, software,
+and call execution
+Lump
+sum
+500000
+500000
+Total amount in Rs.  (Excl GST)
+5,00,00
+0
+(Rupees Five Lakh Only)
+ 
+7.         Considering the urgency of implementation and the fact
+that M/s. EMRI Green Health Services is already associated with
+GHMC for Call Center operations, it is proposed to entrust the
+work to the same agency.
+ 
+8.         In view of the above, the Commissioner, GHMC is
+requested to accord administrative sanction for an amount of
+Rs. 5,00,000/-
+ (Rupees Five Lakh Only) in favour of 
+M/s. EMRI
+Green Health Services, 
+towards 
+providing of  IVR Outbound
+Call Campaign
+ to create awareness among citizens who
+have not yet paid their Property Tax for the ﬁnancial year
+2026-27 and to encourage them to avail the Early Bird
+Scheme (5% rebate) before 30th April 2026 
+and the
+expenditure may be met from the head of account “02A-0201-
+22012-01“ (Communication Expenses) during the ﬁnancial year
+2026-27.
+ 
+9.         Submitted for kind perusal and approval of para no 8 NF.
+ 
+20/04/2026 09:13 PM
+Note # 2 
+ 
+ 
+G.SATYANARAYANA
+SR.ASST-1(IT)-HO
+3
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+21/04/2026 12:23 PM
+Note # 3 
+ 
+ 
+21/04/2026 12:27 PM
+Note # 4 
+ 
+ 
+21/04/2026 12:28 PM
+Note # 5 
+ 
+ 
+21/04/2026 01:35 PM
+Note # 6 
+ 
+ok
+21/04/2026 03:42 PM
+Note # 7 
+ 
+G.N.SAI RAM
+AE-3(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+C RADHA
+JC(IT)HO
+MANDA MAKARANDU IAS
+ADDL. COMMR(IT)
+R V KARNAN 
+IAS
+COMMISSIONER
+4
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+ 
+22/04/2026 04:40 PM
+Note # 8 
+ 
+ 
+22/04/2026 04:42 PM
+Note # 9 
+ 
+ 
+22/04/2026 05:57 PM
+Note # 10 
+ 
+ 
+23/04/2026 05:22 PM
+Note # 11 
+ 
+ 
+11.     As per the approval of the Commissioner, GHMC at para
+no. 10 NF, Work Order is prepared in favor of 
+M/s. EMRI Green
+MANDA MAKARANDU IAS
+ADDL. COMMR(IT)
+C RADHA
+JC(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+G.N.SAI RAM
+AE-3(IT)HO
+5
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Health Services
+ and placed in drafts 
+(DFA/125546)
+ for
+signature please.
+ 
+24/04/2026 03:23 PM
+Note # 12 
+ 
+ 
+24/04/2026 05:14 PM
+Note # 13 
+ 
+ 
+25/04/2026 10:58 AM
+Note # 14 
+ 
+ 
+25/04/2026 02:36 PM
+Note # 15 
+ 
+ 
+G.SATYANARAYANA
+SR.ASST-1(IT)-HO
+G.N.SAI RAM
+AE-3(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+C RADHA
+JC(IT)HO
+6
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+30/04/2026 09:50 PM
+Note # 16 
+ 
+ 
+02/05/2026 02:44 PM
+Note # 17 
+ 
+ 
+02/05/2026 08:34 PM
+Note # 18 
+ 
+ 
+05/05/2026 03:53 PM
+Note # 19 
+ 
+ 
+11.       The Commissioner, GHMC at para no. 10 of NF has
+accorded administrative sanction for an amount of 
+Rs.
+5,00,000/-
+ (Rupees Five Lakh Only) in favour of 
+M/s. EMRI
+Green Health Services, 
+towards 
+providing of  IVR Outbound
+Call Campaign to create awareness among citizens who
+have not yet paid their Property Tax for the ﬁnancial year
+2026-27 and to encourage them to avail the Early Bird
+Scheme (5% rebate) before 30th April 2026 
+and the
+RADHIKA GUPTA IAS
+ADDL. COMMR(IT)
+C RADHA
+JC(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+G.N.SAI RAM
+AE-3(IT)HO
+7
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+expenditure may be met from the head of account “02A-0201-
+22012-01“ (Communication Expenses) during the ﬁnancial year
+2026-27.
+ 
+12.       Therefore, the ﬁle may be forwarded to Financial Advisor,
+GHMC for providing budget entry accordingly.
+12/05/2026 06:59 PM
+Note # 20 
+ 
+ 
+12/05/2026 07:46 PM
+Note # 21 
+ 
+ 
+13/05/2026 12:23 PM
+Note # 22 
+ 
+ 
+13/05/2026 01:50 PM
+G.SATYANARAYANA
+SR.ASST-1(IT)-HO
+G.N.SAI RAM
+AE-3(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+C RADHA
+JC(IT)HO
+8
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Note # 23 
+ 
+ 
+14/05/2026 03:17 PM
+Note # 24 
+ 
+ 
+15/05/2026 12:28 PM
+Note # 25 
+ 
+13.  As per the approval of the Commissioner, GHMC, the
+budget entry has been provided vide BAS No. HO-
+26004560/2024-25, subject to reconciliation of Head of
+Account and re-appropriation of funds by the DDO from
+functional allotment i.e. RBE 2024-25. The supporting
+proceedings have been issued on behalf of the
+Commissioner, GHMC (Placed in the drafts for signature).
+14.  Hence the ﬁle may be forwarded to AC (IT), GHMC for
+further necessary action.
+                                 
+15. E-oﬃce key is under renewal, hence ﬁle may please be
+processed.
+ 
+20/05/2026 04:32 PM
+Note # 26 
+ 
+ 
+21/05/2026 05:07 PM
+Note # 27 
+ 
+ 
+K.SARATH CHANDRA
+CFA
+FAHMINA KHATOON
+SUPDT(FA)HO
+D.SWAMY MUDHIRAJ
+JR.ASST(FA)HO
+FAHMINA KHATOON
+SUPDT(FA)HO
+9
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+01/06/2026 05:04 PM
+Note # 28 
+ 
+ 
+03/06/2026 12:05 PM
+Note # 29 
+ 
+ 
+03/06/2026 02:48 PM
+Note # 30 
+ 
+ 
+03/06/2026 05:24 PM
+Note # 31 
+ 
+Bill Note submitted to AC(IT), GHMC:
+ 
+Sub:
+    GHMC – IT Section – Release of payment for
+providing of IVR Outbound Call Campaign – Early Bird
+Property Tax Scheme 2026-27 of GHMC
+ 
+- Reg.
+ 
+   Ref:
+     1. Note approval of the Commissioner, GHMC
+at Para No. 10 NF.
+K.SARATH CHANDRA
+FINANCIAL ADVISOR
+C RADHA
+JC(IT)HO
+NARSING RAO KORMI
+DY.EE-2(IT)-HO
+G.N.SAI RAM
+AE-3(IT)HO
+10
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+2. Invoice No: TS/26-27/GHMC/0186, Dt: 05.05.2026
+from M/s. EMRI Green Health Services.
+ 
+<<<<>>>> 
+ 
+16.  It is to submit that, the Commissioner, GHMC  at para no.
+10 NF has accorded administrative sanction for an amount of 
+Rs.
+5,00,000/-
+ (Rupees Five Lakh Only) in favour of 
+M/s. EMRI
+Green Health Services, 
+towards 
+providing of  IVR Outbound
+Call Campaign to create awareness among citizens who
+have not yet paid their Property Tax for the ﬁnancial year
+2026-27 and to encourage them to avail the Early Bird
+Scheme (5% rebate) before 30th April 2026
+ 
+and the
+expenditure may be met from the head of account “02A-0201-
+22012-01“ (Communication Expenses) during the ﬁnancial year
+2026-27.
+ 
+17.  Accordingly, the agency M/s. EMRI Green Health Services,
+has made IVR Outbound Calls from 23.04.2026 to 30.04.2026 to
+Citizens for creating awareness among citizens who have not yet
+paid their Property Tax for the ﬁnancial year 2026-27 and to
+encourage them to avail the Early Bird Scheme (5% rebate)
+before 30th April 2026 along with Call Reports and no attempts
+(attached below).  
+ 
+18.    Further, vide reference 2
+nd
+ cited, the agency has
+submitted invoices for release payment and the bill details are
+submitted below:
+Sl
+.
+N
+o
+Description of Work
+Qt
+y
+(N
+o)
+Unit
+Price
+in Rs.
+Amo
+unt
+in
+Rs.
+1
+Providing of IVR campaign including system
+setup, SIP lines, software, and call execution
+for the month of April -2026.
+Lu
+mp
+su
+m
+50000
+0
+5000
+00
+Total amount in Rs.  (Excl GST)
+5,00,
+000
+(Rupees Five Lakh Only)
+ 
+19.  In view of the above, it is requested to the AC (IT), GHMC,
+to permit to release payment of 
+Rs. 5,00,000
+/-  (Rupees Five
+Lakh 
+Only) in favour of 
+M/s. EMRI Green Health Services,
+towards 
+providing of  IVR Outbound Call Campaign to
+create awareness among citizens who have not yet paid
+their Property Tax for the ﬁnancial year 2026-27 and to
+encourage them to avail the Early Bird Scheme (5%
+rebate) before 30th April 2026
+ 
+and the expenditure may be
+11
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+met from the head of account “02A-0201-22012-01“
+(Communication Expenses) during the ﬁnancial year 2026-27.
+ 
+20.    Proceedings are prepared and placed in
+drafts 
+(DFA/127210)
+ for signature and subject to approval,
+Contingent bill along with Journal Voucher will be submitted
+manually, please.
+04/06/2026 04:13 PM
+G.SATYANARAYANA
+SR.ASST-1(IT)-HO
+12
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+List of Correspondences
+Receipt No. / Issue
+No.
+Subject
+Type
+Marked
+As
+Attached
+On
+Issued
+On
+Pages
+Remarks
+902445/2026/SR.ASST
+IT HO
+Invoice - M/s. EMRI
+Green Health
+Services
+Receipt
+04/06/2026
+04:09 PM
+5-7
+Invoice
+895500/2026/SR.ASST
+IT HO
+Proposal of the M/s.
+EMRI Green Health
+Services and eMail
+Communication.
+Receipt
+PUC1.0
+20/04/2026
+09:12 PM
+1-4
+13
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+895500/2026/SR.ASST IT HO
+14
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+895500/2026/SR.ASST IT HO
+15
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+895500/2026/SR.ASST IT HO
+16
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Costing Proposal - Request for IVR Outbound Call Campaign –Early Bird Property Tax Scheme 2026-27 satya.goundla< satya.goundla@gov.in >
+Bhanuprakash B< bhanuprakash_b@emri.in >
+Mon, 20 Apr 2026 3:44:52 PM +0530
+To "'jcit.ghmc'"<jcit.ghmc@gmail.com>,"'Sairam Nrisimha Garikipati'"<sairam.315@gov.in>
+Cc"'Satyanarayana Goundla'"<satya.goundla@gov.in>,"'santhoshi_a'"<santhoshi_a@emri.in>,"'Santhosh Nandala'"<santhosh_n@emri.in>
+Dear Sir/Ma’am,
+ 
+As per your request I’m sharing with you the costing proposal for your approval.
+ 
+Regards,
+BhanuPrakash. B
+ 
+From: Sairam Nrisimha Garikipati <sairam.315@gov.in>
+Sent: 18 April 2026 11:28
+To: bhanuprakash_b <bhanuprakash_b@emri.in>
+Cc: santhoshi_a <santhoshi_a@emri.in>; jcit.ghmc <jcit.ghmc@gmail.com>; Satyanarayana Goundla
+<satya.goundla@gov.in>
+Subject: Request for IVR Outbound Call Campaign – Early Bird Property Tax Scheme 2026-27
+ 
+ 
+Dear Sir/Madam,
+ 
+Greetings from GHMC!
+ 
+This is to inform you that the Hon'ble Commissioner, GHMC has desired to launch an outbound call
+campaign targeting citizens who paid their property tax last year but have not yet paid for the current year
+2026-27.
+ 
+The objective of the campaign is to appeal to these citizens to avail the Early Bird Scheme and pay their
+property tax before 30th April 2026 to avail a 5% rebate on current year tax including arrears, if any.
+ 
+The approximate number of mobile numbers identified for this campaign is 6.5 Lakh (as on date).
+ 
+The proposed message content for the IVR calls is as follows:
+ 
+"Dear Citizen, Please avail Early Bird Scheme and get 5% rebate on current year tax i.e 2026-27 against
+PTIN : 1051401165 , HNO: '14-10-729 by paying before 30th April 2026 including arrears if any.You can
+pay your tax at (GHMC,CMC,MMC) Citizen Service Centers, Bill Collectors, Meeseva or make payment
+Online through GHMC, CMC, MMC websites/ MyCURE app / UPI apps like Gpay, Phone pay etc. or by
+clicking on below link https://onlinepayments.ghmc.gov.in/PTax/getPTaxDemandDetails?
+XYZ=E1D0F9EB9F872C4EE11D02D29F9B0E10 Note : Secured cashless payment methods ONLY
+enabled for Property Tax Collection. Go Cashless - Save Time. -Team CURE"
+ 
+In view of the above, GVK – EMRI Green Health Services is requested to kindly provide a suitable solution
+and proposal for executing IVR outbound calls for approximately 6.5 Lakh mobile numbers at the earliest.
+ 
+It is further requested to ensure that the entire campaign is completed before 30th April 2026.
+ 
+Your prompt action in this regard is highly solicited.
+ 
+Regards,
+Sairam,
+AE, GHMC
+ 
+1 Attachment(s)
+Proposal Letter for GHMC Pro…
+1 MB
+4/20/26, 5:51 PM Costing Proposal - Request for IVR Outbound Call Campaign – Early Bird Property Tax Scheme 2026-27
+about:blank 1/1
+895500/2026/SR.ASST IT HO
+17
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+J
+(
+e- - too 523 Ict,r.)
+i
+Ualc sl>c{
+h
+1ci
+>a>t
+GRttlt
+L
+IIH]TH STRUIGES
+GvK'l Enterprise
+E M Rr/PPPlG H M c | 786 I 2026 sth May 2026
+To
+The Commissioner,
+G reater Hyderabad Municipal Corporation
+GHMC, Hydera bad
+Sir,
+Sub: Operational Expenditure of IVR Campaign system setup, SIP lines, Software and call
+execution for the month of April 2025,
+Ref : Work Order No. 4OL476lfllI |GHMC|2O26-27 , Oated 24-04-2026.
+Please find below the Operational Expenditure of IVR Campaign system setup, Slp Lines,
+Software and call execution for the month of April 2026 Established in EMRI GHS Premises as
+follows
+Sr No Description Amount in RS
+1
+5,00,000.00
+2 GST Tax 18%
+Grand Total
+5o it is our prior request to release the Operational Expenditure as early as possible
+Thanking you
+Yours ith llv Rr
+qh Prakash B
+1ic
+Ia
+IaOperations Head
+.)ial 100
+09100505160
+o,ttaS
+Note: Enclosed Annexure I & ll
+EMRI GREEN HEALTH SERVICES
+Devar Yamzal, Medchal Road, Secunderabad - 50O 078
+Telangana.lndaa
+1+ 91 40 2346 2222/266 F+91 40 2446 2174
+Emergency Ambulance Services
+Healthcare Outreach Services
+Police Helpline
+Civic Services Helpline
+Multispe.iality Hospital
+ao
+da,
+o-
+Emergency Medicine Education
+Women Counselling & Rescue
+Mobile Veterinary Services
+Student Counselling Helpline
+CSR Partnerships
+:108IIIIEGT
+1,,'tlS
+lntrad,oulwa"1
+ro \ao
+@
+Operational Expenditure of IVR Campaign system
+setup, SIP Lines, Software and call execution for
+the month of April 2026.
+5,00,000.00
+Developed and spearheaded Services in lndia
+902445/2026/SR.ASST IT HO
+18
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Bill of supply
+Oligi[al for Recipi€Dt
+EMRI GREEH HEALTB SERVICEA
+Devar YeEz3l, fcdchal Roed, Secuaderebrd - 5OOO78, ?.laDEaae.
+GSTI N:3 6AAAAE 2 16 I R2ZH Invoice No. T5/26 2T ICHMClOlA6
+Reverse Charge (Y/N) N
+Invoice Date: 05-05-2026State:Tel
+angzrna Code 36
+Details of Receiver (Biued to)
+Name: The Commissioner, GHMC
+Address: MUNICIPAL COMPLEX BUILDINC, TANKBUND ROAD, LIBERTY AREA, Hyderabad 500063, Telangana.
+GSTIN:36AAALC0877H 127
+State:Tel
+angana Code 36 Period :- April 2026
+S. No. Deacriptioa of Sergices sAc
+Code
+LUMSU COST FOR
+OPEK
+Taxable
+AEount (Rs.)
+I
+Operational Expenditure of IVR
+Campaign system setup, SIP Lines,
+Software and call execution for
+the month of April 2026.
+9983 5,00,000 5,00,000
+Total Arnoult before Tsx 5,OO,OOO
+Add: CGST iu 9%
+Add: SGST " 9%
+Total Alrourlt alter Tax 5,OO,OOO
+GST od Reverse Charse
+Totel Invoice Value litr words)
+(Rupeea: Five Lakhs Orr.ly.
+BaDk AccouEt Details:
+Baak Name: Axis BaEk Ltd.
+Bank A/c: 9r7oroo7 1642992
+Baak IFSC: UTIBOOOOTO2
+FoT EMRI GREEN HEAITH SERVICES
+w )
+_Lt
+o
+(,/)
+ooq_
+oa.Authorised
+4JA
+902445/2026/SR.ASST IT HO
+19
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+IVR Outbound Calling
+Connected Status
+Property Tax Early Bird Scheme (5% Rebate)- IVR Outbound Callint Campaign Calls Summary Report (From 23-04-2026 to 30'04-2025)
+lst Attempt ot IVR Outbouhd Calling for the given total Mobile Numbers aSainst PTIN 2nd Attempt of lvR calling for Not Answered Calls Grand Total
+(1'r & 2'd
+Atrempr5)71-O4-2026 24-04-2026 25-04-2025 26-04-2026 21-04-2026 2A-O4-2026 TotalCalls
+(1st Attempt) 29-04-2026 30-04-2025 TotalCalls
+(2nd Attempt)
+Connected Calls 10511 21613 22721 20826 19479 8051 102663 1154 17529 191S 1 43834 146497
+Not Connected calls 88164 73722 81611 11252 79124 21146 421229 28125 94501 125355 248981 570210
+TotalCalls 98675 95395 t03734 98088 29t97 523892 35279 145506 292415 815707
+Connected Calls Oetails
+(Response to IVR PIay) 23-O4-2026 24-O4-2026 2S-04"2026 26-O4-2026 27 -04-2026 28,04 2026 Total Calls
+llst Attempt) 2a-o4-2026 29-O4-2026 30-04-2026 Totalcalls
+(1st Attempt) Grand Total
+DiSit Not Pressed 8255 17509 14246 17111 64L1 83103 5705 74454 15485 35640 tla743
+9222
+134
+14234
+DiEit -1 Pressed (for
+IVR Script in English) 684 1521 1243 1340 464 6470 461 7411 12L4 2152
+Digit -1-4 Pressed 11 18 22 20 13 4 88 1 22 11 46
+Digit "2 Pressed (for
+IVR Script in Telugu) 823 2016 2157 1939 2259 1063 10317 559 1363 391;'
+0igit -2-4 Pressed 42 100 62 82 31 400 12 53 83 158 568
+3528Digit "3 Pressed (for
+IVR Scr pt n Hindi) 6a4 453 353 348 342 71 2251 381 548 348 t71t
+Digit -3"4 Pressed t2 I 2 6 1 l4 9 16 l4 68
+TotalConnected Callj 10511 216?1 22L23 20476 19479 80s1 102663 7154 19151 43834 146491
+Not conne.ted Calls 23-04-2026 24-04-2026 25-04-2026 26-O4-2026 28-04-2026 Totalcalls
+(1st Attempt) 28-04-2026 29-04-2026 30-04-2026 TotalCalls
+(2nd Attempt) Grand Total
+Ringin&/No An5w€r 12549 26644 27137 25998 21507 9711 125148 9357 32152 40211 81780 206928
+No user responding 0 0 0 1 0 129 o 2 5 114
+tt7146
+52
+5l
+lls374
+NO Answer 23417 12597 73152 13417 1125t s085 4538 14066 36821
+Call Relected 4 5 9 8 6 0 33 0 6 13 19
+Destination Out of
+order
+2 11 5 11 1 34 2 l 10 19
+NormalCircurt
+Cohgestion 51612 34212 39955 36318 37531 6209 205897 14t64 41919 61394
+52 199 741 115 118 9663 64 148 448 860 10523
+670210Total Not Connected
+calls 88164 73722 81611 71262 19324 2Lt46 421229 2A125 94501 125355 248981
+CN
+oo-
+oq,
+o
+)
+-o
+ra€
+2a-o4-2026
+98803 112030
+15565
+1212
+1995
+27-04-2026
+17 529
+128 3
+80325 18217
+129411
+Network Out of Order 9011
+@
+902445/2026/SR.ASST IT HO
+20
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Draft List
+Draft No.
+Subject
+Status
+Approved By
+Last
+Updated
+On
+DFA/127210
+Proceedings - M/s. EMRI
+Green Health Services
+DFA
+04/06/2026
+04:11 PM
+DFA/126614
+Budget Proceedings
+SIGNED
+K.SARATH CHANDRA, O/o FINANCIAL
+ADVISOR HO
+20/05/2026
+04:31 PM
+DFA/126613
+Budget Sticker
+SIGNED
+K.SARATH CHANDRA, O/o FINANCIAL
+ADVISOR HO
+20/05/2026
+04:30 PM
+DFA/125546
+Work Order - M/s. EMRI
+Green Health Services.
+SIGNED
+RADHIKA GUPTA IAS,O/o ADDITIONAL
+COMMISSIONER (INFORMATION
+TECHNOLOGY)
+24/04/2026
+03:19 PM
+21
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+PROCEEDINGS OF THE ADDITIONAL COMMISSIONER (IT)
+GREATER HYDERABAD MUNICIPAL CORPORATION
+Present:  Sri. P. Uday Kumar, I.A.S.,
+       Addl. Commissioner (IT), GHMC.
+Pros. No. 401476/S1/IT/GHMC/2026-27,                                                       Dt: 04.06.2026.
+Sub: GHMC – IT Section – Release of payment for providing of IVR Outbound  
+Call  Campaign  –  Early  Bird  Property  Tax  Scheme  2026-27  of  GHMC – 
+Orders Issued – Regarding. 
+  
+Ref: 1. Note approval of the Commissioner, GHMC at Para No. 10 NF.
+2. Invoice No: TS/26-27/GHMC/0186, Dt: 05.05.2026 from M/s. EMRI Green 
+Health Services.
+<<<<>>>>
+O R D E R :
+In  accordance  with  the  sanction  of  the  Commissioner,  GHMC  cited  in  the  1 st 
+reference and Invoice submitted cited in 2 nd references, it is hereby permitted to release an  
+amount of  Rs. 5,00,000/-  (Rupees Five Lakh Only) in favour of  M/s. EMRI Green Health  
+Services,  towards  providing  of       IVR  Outbound  Call  Campaign  to  create  awareness   
+among citizens who have not yet paid their Property Tax for the financial year 2026-27  
+and to encourage them to avail the Early Bird Scheme (5% rebate) before 30th April  
+2026 and  the  expenditure  may  be met  from  the  head  of account  “02A-0201-22012-01“  
+(Communication Expenses) during the financial year 2026-27.
+(This has the approval of the Commissioner, GHMC)
+      Addl. Commissioner (IT),
+          GHMC
+To,
+1. M/s. EMRI Green Health Services. 
+2. Examiner of Accounts (HO), GHMC.
+DFA/127210
+22
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+PROCEEDINGS OF THE COMMISSIONER HEAD OFFICE
+GREATER HYDERABAD MUNICIPAL CORPORATION
+Present: Sri. R.V.Karnan, IAS
+Proc. No:   401476/ENG/COMM./GHMC/2026-27 Date: 20-May-2026
+Sub: GHMC engineering wing division IT Section administrative sanction for an 
+estimated cost of Rs.500000/- towards  
+      Ref:  
+a) BAS No:  HO-26004560
+b) Scheme: Own Intiative
+c) Function: General Administration
+d) Account: Office Telephone, Mobiles, Faxes and Leased Lines
+e) Slum: 
+f) No of Units: 100
+g) Work Requested By: Department Initiated
+***********
+Order
+Administrative Sanction is hereby accorded for an amount of Rs. 500000 /- (Five
+Lakh only) for the following works. The Superintendent/Executive Engineer are hereby directed
+to execute the work following the Codal Rules.
+Sl No. WIN Code Nature of work Budget No. S.A. Mode of Allot
+1 IT1-26005689  towards providing of  IVR Outbound Call 
+Campaign to create awareness among citizens 
+who have not yet paid their Property Tax for 
+the financial year 2026-27 in favour of M/s. 
+EMRI Green Health Services
+26000125-1 500000 Tendering Not 
+Required
+            Total:    500000
+COMMISSIONER,
+GHMC.
+Copy to:
+Superintendent Engineer / Executive Engineer, for necessary action.
+IT/COM/0008/2026/SR.ASST-1 (IT)-HO I/98538/2026
+23
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+Greater Hyderabad Municipal Corporation
+Head Office  Budget Allocation Slip (BAS)
+ Original Non-Works Budget
+Financial Year:  2026-27 BAS No: HO-26004560
+Present Budget Allocation: Rs  5,00,000/- Budget Allocation Date: 20-May-2026
+Particulars Budget (Rs) Allotments (Rs) Balance (Rs)
+General Contingency Budget 0 36,34,02,299 -36,34,02,299
+0201.2201201.999 1,05,00,000 58,62,505 46,37,495
+Sanction Authority : Commissioner
+Scheme : Own Intiative
+Function: General Administration
+Account: Office Telephone, Mobiles, Faxes and 
+Leased Lines 
+Location: Head Office
+DDO: Addl. Commissioner (IT)
+Sanction Date: 20-May-2026
+E-Office File No.: 401476
+Bank A/c  No:  52082155599  
+Bank Name:  HO General Fund
+Division: IT Section
+Ward: Internal
+Superintendent (Budget) Financial Advisor Sanctioning Authority
+IT/COM/0008/2026/SR.ASST-1 (IT)-HO I/98537/2026
+24
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
+--- PAGE SPLIT ---
+`
+GREATHER HYDERABAD MUNICIPAL CORPORATION: HYDERABAD
+ 
+O/o. Additional Commissioner
+(Information Technology)
+3rd Floor, GHMC.
+Work Order No. 401476/S1/IT/GHMC/2026-27, Dated: 24.04.2026
+To
+M/s. EMRI Green Health Services,
+Devar Yamzal, Medchal Road,
+Secunderabad - 500078.
+Gentleman,
+Sub: GHMC – IT Section – Providing of IVR Outbound Call Campaign for Early
+Bird  Property  Tax  Scheme  2026-27  of  GHMC  –  Work  Order  Issued  –
+Regarding.
+Ref: 1. Note approval of the Commissioner, GHMC at para no. 10 NF. 
+2. Proposal No. EMRI GHS/GHMC-IVR Outbound Call Campaign - Early
+Bird Property Tax Scheme 2026-27.
+<<<<<>>>>>
+As per the approval of the Commissioner, GHMC you are hereby informed to provide
+IVR Outbound Call Campaign  for Early Bird Property Tax Scheme 2026-27  of GHMC  to
+encourage citizens to avail the Early Bird Scheme (5% rebate) before 30th April 2026 , as per the
+rates & specification mentioned in above proposal cited in the 2 nd reference and the details are as
+follows:
+Sl.
+No Description of Work Qty
+(No)
+Unit Price
+in Rs.
+Amount in
+Rs.
+1 Providing of IVR campaign including system setup, 
+SIP lines, software, and call execution
+Lump
+sum 500000 500000
+Total amount in Rs.  (Excl GST) 5,00,000
+(Rupees Five Lakh Only)
+         (This has the approval of the Commissioner, GHMC)
+Yours sincerely,
+Additional Commissioner (IT)
+GHMC
+File No.IT/COM/0008/2026/SR.ASST-1 (IT)-HO
+25
+File No. IT/COM/0008/2026/SR.ASST-1 (IT)-HO (Computer No. 401476)
