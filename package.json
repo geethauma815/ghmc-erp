@@ -9,12 +9,13 @@
     "preview": "parcel index.html --port 8000"
   },
   "dependencies": {
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.1",
+    "postcss": "^8.5.16"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.2",
     "parcel": "^2.16.4",
-    "tailwindcss": "^4.0.0-alpha.30",
+    "tailwindcss": "^4.3.2",
     "typescript": "^5.2.2"
   }
 }
