@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 @layer base {
   body {
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
@@ -11,13 +9,16 @@
   width: 6px;
   height: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: #f1f5f9;
 }
+
 ::-webkit-scrollbar-thumb {
   background: #cbd5e1;
   border-radius: 4px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
@@ -30,18 +31,23 @@
   position: relative;
   font-family: 'Courier New', Courier, monospace;
 }
+
 .green-note-sheet::before {
   content: '';
   position: absolute;
-  top: 0; left: 40px; bottom: 0;
+  top: 0;
+  left: 40px;
+  bottom: 0;
   width: 1px;
-  background-color: #fecdd3; /* Red margin line */
+  background-color: #fecdd3;
+  /* Red margin line */
 }
 
 /* Steps Connector Line */
 .steps-connector-horizontal {
   position: relative;
 }
+
 .steps-connector-horizontal::after {
   content: '';
   position: absolute;
@@ -63,19 +69,36 @@
 
 /* Pulse animation for active workflow items */
 @keyframes activePulse {
-  0% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.4); }
-  70% { box-shadow: 0 0 0 8px rgba(79, 70, 229, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0); }
+  0% {
+    box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.4);
+  }
+
+  70% {
+    box-shadow: 0 0 0 8px rgba(79, 70, 229, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(79, 70, 229, 0);
+  }
 }
+
 .animate-active-pulse {
   animation: activePulse 2s infinite;
 }
 
 /* Toast animations */
 @keyframes toastSlideIn {
-  from { transform: translateY(100%); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
+
 .animate-toast-slide-in {
   animation: toastSlideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
